@@ -10,4 +10,4 @@ A simple Tic Tac Toe game.
 * Run command `flutter run`
 
 ## Demo
-![](tic_tac_toe.gif)
+Select development branch to see the demo
